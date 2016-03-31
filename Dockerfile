@@ -15,4 +15,4 @@ EXPOSE 20 21
 
 VOLUME /tank1
 
-ENTRYPOINT ["vsftpd"]
+#ENTRYPOINT ["vsftpd"]
